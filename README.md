@@ -1,4 +1,3 @@
-
 👋 Hi, I’m Onyenaucheya Emmanuel
 👀 I’m interested in Software Engineering with Java and Python
 🌱 I’m currently make use of Springboot and Django Framework with Java and python
