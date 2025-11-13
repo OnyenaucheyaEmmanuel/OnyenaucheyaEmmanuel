@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Navigate through my info like a snake collecting apples 🍎.
 
-![Snake Info Game](assets/snake_info.gif)
+![Snake Info Game](assets/snake_realistic_info.gif)
 
 ---
 
